@@ -13,9 +13,10 @@ A second target is to learn more web high-end technologies that are used at the 
 
 ## Technologies
 
-1. 'Jekyll': the most important reason why this website is hosted on [GitHub] is the fact that GitHub Pages use, deploy and run Jekyll websites by default.
-2. 'SCSS': I knew CSS for years but SASS seems to be more powerful.
-3. 'CoffeScript': A new wave of scripting language supported natively by Jekyll.
+1. [Jekyll](jekyllrb.com): the most important reason why this website is hosted on [GitHub] is the fact that GitHub Pages use, deploy and run Jekyll websites by default.
+2. [SCSS](http://sass-lang.com/): I knew CSS for years but SASS seems to be more powerful.
+3. [CoffeScript](http://coffeescript.org/): A new wave of scripting language supported natively by Jekyll.
+4. [YAML](http://yaml.org/):
 
 ## Progress
 

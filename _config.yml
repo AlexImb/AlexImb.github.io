@@ -13,4 +13,4 @@ url: "http://imalex.me" # the base hostname & protocol for your site
 github_username:  AlexImb
 
 # Build settings
-# markdown: kramdown
+markdown: kramdown
