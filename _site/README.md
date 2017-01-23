@@ -7,10 +7,9 @@ The main purpose of this website is to create a personal portfolio to show my wo
 A second target is to learn more web high-end technologies that are used at the moment in industry. Also User Experience and User Interaction will be an important part for this project.
 
 ## Tools
- - KitKraken:
- - `Atom`:
- - [Trello]()
- - '[][]'
+ - [KitKraken](https://www.gitkraken.com/):
+ - [Atom](atom.io):
+ - [Trello](https://trello.com)
 
 ## Technologies
 
@@ -20,14 +19,18 @@ A second target is to learn more web high-end technologies that are used at the 
 
 ## Progress
 
-[] Find a domain name: imalex.me for free using the GitHub Educational Pack voucher.
-[] Find a hosting provider: GitHub because it can run Jekyll natively.
-[] Think about the structure of the website.
-[] Learn more about new web technologies.
-[]
-[]
+- [x] Find a domain name: imalex.me for free using the GitHub Educational Pack voucher.
+- [x] Find a hosting provider: GitHub because it can run Jekyll natively.
+- [ ] Think about the structure of the website.
+- [ ] Learn more about new web technologies.
+- [ ] Implement a landing page.
+- [ ] Add social buttons.
+- [ ] Add a CV like page with export option.
+- [ ] Implement a skills page.
+- [ ] Build a blog.
+
 
 
 ## Thanks and resources
- - [DevTips][https://www.youtube.com/watch?v=VcMjo_wczCc]
- - [Jekyll Documentation][]
+ - [DevTips](https://www.youtube.com/watch?v=VcMjo_wczCc)
+ - [Jekyll Documentation](https://jekyllrb.com/docs/home/)
