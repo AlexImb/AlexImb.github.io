@@ -8,8 +8,8 @@ A second target is to learn more web high-end technologies that are used at the 
 
 ## Tools
  - KitKraken:
- - 'Atom':
- - [Trello][]
+ - `Atom`:
+ - [Trello]()
  - '[][]'
 
 ## Technologies

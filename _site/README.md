@@ -8,8 +8,8 @@ A second target is to learn more web high-end technologies that are used at the 
 
 ## Tools
  - KitKraken:
- - 'Atom':
- - [Trello][]
+ - `Atom`:
+ - [Trello]()
  - '[][]'
 
 ## Technologies
@@ -17,7 +17,6 @@ A second target is to learn more web high-end technologies that are used at the 
 1. 'Jekyll': the most important reason why this website is hosted on [GitHub] is the fact that GitHub Pages use, deploy and run Jekyll websites by default.
 2. 'SCSS':
 3. 'CoffeScript':
-4.
 
 ## Progress
 
