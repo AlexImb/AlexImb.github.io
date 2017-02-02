@@ -1,10 +1,10 @@
 ---
-title: Typo International Design Talks Stuff
+title: Cocktail Club Delivery
 ---
 
-![Typo International]({{ site.github.url }}/assets/img/work/proj-1/img1.jpg)
+![Typo International]({{ site.github.url }}/assets/img/work/proj-1/proj-1-1.png)
 
-TYPO: International Design Talks is an annual event held in Berlin, London, and San Francisco. This promotional project is developed to market the event for the designindustry. The use of patterns, sophisticated color scheme and typography are applied for the print and mobile application.
+Click to edit position descriptionCocktail Club is a do it yourself cocktail delivery startup founded in Romania in 2015.
 
 ![Typo International]({{ site.github.url }}/assets/img/work/proj-1/img2.jpg)
 ![Typo International]({{ site.github.url }}/assets/img/work/proj-1/img3.jpg)
