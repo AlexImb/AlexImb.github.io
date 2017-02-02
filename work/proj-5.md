@@ -1,5 +1,5 @@
 ---
-title: Fresh It Up
+title: Scroll Up Premium Template
 ---
 
-![Fresh It Up]({{ site.github.url }}/assets/img/work/proj-5/freshitup-JieyuXiong.jpg)
+![Scroll Up Premium Template]({{ site.github.url }}/assets/img/work/proj-4/img1.png)

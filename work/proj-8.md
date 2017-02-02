@@ -1,5 +1,5 @@
 ---
-title: "Stripes & Co"
+title: Scroll Up Premium Template
 ---
 
-![Stripes & Co]({{ site.github.url }}/assets/img/work/proj-8/stripes-co-NickZoutendijk.jpg)
+![Scroll Up Premium Template]({{ site.github.url }}/assets/img/work/proj-4/img1.png)

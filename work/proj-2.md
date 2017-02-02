@@ -2,4 +2,4 @@
 title: onTime App Presentation Page
 ---
 
-![City In]({{ site.github.url }}/assets/img/work/proj-2/proj2-1.png)
+![onTime App Presentation Page]({{ site.github.url }}/assets/img/work/proj-2/img1.png)

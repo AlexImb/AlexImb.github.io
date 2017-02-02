@@ -1,5 +1,5 @@
 ---
-title: Timeline Page
+title: Scroll Up Premium Template
 ---
 
-![Timeline Page]({{ site.github.url }}/assets/img/work/proj-6/TimeLinePage-SergeyValiukh.jpg)
+![Scroll Up Premium Template]({{ site.github.url }}/assets/img/work/proj-4/img1.png)

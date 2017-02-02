@@ -1,5 +1,5 @@
 ---
-title: Crispy Icons
+title: First Class Company
 ---
 
-![Crispy Icons]({{ site.github.url }}/assets/img/work/proj-3/CrispyIcons-PetrasNargela.jpg)
+![First Class Company]({{ site.github.url }}/assets/img/work/proj-3/img1.jpg)
