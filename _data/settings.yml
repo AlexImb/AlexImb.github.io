@@ -101,11 +101,11 @@ clients:
 # Contact Section
 
 social:
+- {icon: 'linkedin', link: 'https://www.linkedin.com/in/alex-imbrea-b6406765'}
+- {icon: 'github', link: 'https://github.com/AlexImb'}
 - {icon: 'twitter', link: 'https://twitter.com/aleximb'}
-# - {icon: 'dribbble', link: 'https://dribbble.com/travisneilson'}
 - {icon: 'facebook', link: 'https://www.facebook.com/username.no13'}
 - {icon: 'youtube', link: 'https://www.youtube.com/user/TheSuprem13'}
-#- {icon: 'linkedin', link: 'http://www.linkedin.com/in/travisneilson/'}
 
 
 # social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
