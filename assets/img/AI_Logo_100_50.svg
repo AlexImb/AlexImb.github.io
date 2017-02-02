@@ -1,0 +1,16 @@
+<svg width="50" height="50" xmlns="http://www.w3.org/2000/svg" stroke="null" style="vector-effect: non-scaling-stroke;">
+
+ <g stroke="null">
+  <title stroke="null">background</title>
+  <rect stroke="null" fill="none" id="canvas_background" height="402" width="582" y="-1" x="-1"/>
+ </g>
+ <g stroke="null">
+  <title stroke="null">Layer 1</title>
+  <ellipse stroke="null" ry="24" rx="24" id="svg_3" cy="24.610227" cx="25.2" fill-opacity="null" stroke-opacity="null" stroke-width="null" fill="rgba(0, 0, 0, 0.7)"/>
+  <text stroke="null" xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_6" y="27.149999" x="35.499994" fill-opacity="null" stroke-opacity="null" stroke-width="0" fill="#000000"/>
+  <text stroke="null" xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_7" y="26.949999" x="24.800002" fill-opacity="null" stroke-opacity="null" stroke-width="0" fill="#000000"/>
+  <path id="svg_13" d="m14.125005,32.749988c-0.0625,0 6.687497,-16.562494 6.687487,-16.562494" opacity="0.5" fill-opacity="null" stroke-opacity="null" stroke-width="null" stroke="null" fill="rgba(0, 0, 0, 0.7)"/>
+  <path id="svg_14" fill-opacity="null" stroke-opacity="null" stroke-width="null" stroke="null" fill="rgba(0, 0, 0, 0.7)"/>
+  <path opacity="0.5" id="svg_17" d="m24.245622,34.992599l-8.375007,0.124999c0.000011,0.000001 -1.687489,0.125001 -1.249989,-1.749999c0.4375,-1.874999 5.874976,-14.374996 6.812487,-16.624994c0.937511,-2.249998 3.87501,-2.749997 5.062509,0.125001c1.187499,2.874998 5.812497,14.687494 5.874997,14.624994c0.0625,-0.0625 0.249978,-14.062494 0.249989,-15.187494c0.000011,-1.125 2.56251,-1.499999 2.75001,0.125c0.1875,1.624999 -0.000022,15.124993 -0.062511,16.562493c-0.062489,1.4375 -3.374988,3.437498 -5.062487,0.4375c-1.687499,-2.999998 -6.249997,-14.749994 -6.249997,-14.812494c0,-0.0625 -5.687498,13.312495 -5.687509,13.312494c0.000011,0.000001 5.937508,0.062501 5.937508,0.000001c0,-0.0625 0.125,1.0625 0,3.062499z" stroke-opacity="null" stroke-width="null" stroke="null" fill="#ffffff"/>
+ </g>
+</svg>
