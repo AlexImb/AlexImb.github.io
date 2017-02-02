@@ -1,5 +1,5 @@
 $(function() {
-	smoothScroll(300);
+	smoothScroll(500);
 	workBelt();
 	workLoad();
 	clientStuff();

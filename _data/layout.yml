@@ -1,5 +1,6 @@
 # Layout settings
 
+# animation: "bounceOut"
 animation: "bounceOut"
 
 # Images
@@ -10,9 +11,10 @@ avatar: "avatar.jpg"
 
 # Colors
 
-accent: "#c99065"
+# accent: "#c99065"
+accent: "#00c4cc"
 
-textColor: "#777"
+textColor: "#555"
 headlineColor: "#333"
 bgcolor: "#e5eaee"
 documentBackgroundColor: "#fff"
