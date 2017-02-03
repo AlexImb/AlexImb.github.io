@@ -9,7 +9,7 @@ email: aleximbrea@gmail.com
 
 menu:
 - {name: About Me, url: '#about-me'}
-- {name: Work, url: '#work'}
+# - {name: Work, url: '#work'}
 # - {name: Clients, url: '#clients'}
 - {name: Contact, url: '#contact'}
 
@@ -40,7 +40,7 @@ seo:
 
 blurb: >
   **Alex specializes in making things** for human people.
-  
+
 
 skills:
 - {name: Programming, value: '9'}
